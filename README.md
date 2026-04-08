@@ -2,7 +2,7 @@
 
 Neste projeto foi desenvolvido um pipeline ETL (Extract, Transform, Load) utilizando a linguagem Python, com o objetivo de compreender, na prática, o fluxo de dados entre as etapas de extração, transformação e carregamento, conforme proposto no desafio.
 
-## Extração (Extract)
+### Extração (Extract)
 A etapa de extração foi realizada a partir de um arquivo CSV contendo dados fictícios de usuários, como nome, conta e cartão. Essa abordagem substitui o uso de uma API externa, permitindo a execução completa do projeto sem dependências externas.
 
 ## Transformação (Transform)
